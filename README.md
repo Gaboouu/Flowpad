@@ -16,6 +16,6 @@ Android Studio, JDK 17 y SDK 35. Añade tu `app/google-services.json`, habilita 
 
 ## Funciones
 Registro, login, logout; contenido separado por cuenta; CRUD de proyectos, tarjetas, tareas y notas; búsqueda; validaciones; mensajes de error; confirmación de borrado; modo oscuro; persistencia local.
-Los proyectos no se sincronizan en la nube. No se migran automáticamente los datos anónimos de versiones anteriores; consulta CONFIGURACION.md.
+Los proyectos no se sincronizan en la nube. No se migran automáticamente los datos anónimos de versiones anteriores;
 
 
