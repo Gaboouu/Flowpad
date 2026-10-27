@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <color name="ic_launcher_background">#202124</color>
+  <color name="theme_1">#FF2F6FED</color>
+  <color name="theme_2">#FFE3ECFF</color>
+  <color name="theme_3">#FF0B2A6B</color>
+  <color name="theme_4">#FFF7F7F5</color>
+  <color name="theme_5">#FF202124</color>
+  <color name="theme_6">#FFEFEFEC</color>
+  <color name="theme_7">#FF6B6B68</color>
+  <color name="theme_8">#FFD9D9D5</color>
+  <color name="theme_9">#FFE7E7E4</color>
+  <color name="theme_10">#FFD64545</color>
+  <color name="theme_11">#FF7AA2FF</color>
+  <color name="theme_12">#FF0B1B3F</color>
+  <color name="theme_13">#FF1F3A78</color>
+  <color name="theme_14">#FFDCE6FF</color>
+  <color name="theme_15">#FF141517</color>
+  <color name="theme_16">#FFEDEDED</color>
+  <color name="theme_17">#FF1D1E21</color>
+  <color name="theme_18">#FF26282C</color>
+  <color name="theme_19">#FFA3A3A0</color>
+  <color name="theme_20">#FF3A3C40</color>
+  <color name="theme_21">#FF2E3034</color>
+  <color name="theme_22">#FFFF7A7A</color>
+</resources>
